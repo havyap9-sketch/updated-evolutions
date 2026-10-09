@@ -1,0 +1,6 @@
+{
+  "name": "TIMEWILD: Prehistoric Adventure & Dinosaur Time Machine",
+  "description": "Step through the glowing time portal into prehistoric worlds! Explore ancient oceans, dinosaur jungles, volcanic peaks, the Ice Age, and early human caves with animated creatures, fossil digs, and interactive science challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
